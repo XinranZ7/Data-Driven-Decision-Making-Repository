@@ -1,2 +1,2 @@
 # Data-Driven-Decision-Making-Repository
-Python codes for DAAN881 course
+R and Python codes for Data-Driven Decision Making course.
